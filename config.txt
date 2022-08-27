@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx67d75af173b16175",
+# 公众号appSecret
+"app_secret": "69116b77a8e3bd00167c49795d5d7d7b",
+# 模板消息id
+"template_id": "9SBbIzjaM_Hy0T9uLH0saiPrG56ItxpivqXvSOTkgHE",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ovsFB50iRLec3zmeRJH9w1_NFC1o"，"ovsFB53fa7C-Yk9IAYyn9xlhjJxw"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "057d3d45fb344992b972624d2d0c9aa5",
+# 天行数据apikey
+"tian_api": "9b8ed67bae2c692746e0082ba30c0496",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "伊宁",
+# 生日
+"birthday1": {"name": "老婆", "birthday": "2001-08-09"},
+# 在一起的日子，格式同上
+"love_date": "2022-4-10",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "愿得一人心，白首不分离，爱你老婆",
+# 金句英文
+"note_en": "i love you"
+}
